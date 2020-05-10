@@ -2,10 +2,10 @@
 
 
 ### 版本：
- >python 3.6.2  
- >django 1.11.6  
+ >python 3.7 
+ >django 3.0 
  >bootstrap-3.3.7  
- >sqlite3  
+ >mysql  
 
 ### 实现功能:
  > 发布内容支持markdown格式，代码语法支持高亮  
